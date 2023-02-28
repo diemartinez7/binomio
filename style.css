@@ -1,4 +1,4 @@
-*{
+* {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
     padding: 0px;
@@ -6,7 +6,7 @@
 }
 
 nav {
-    background: linear-gradient(90deg, rgba(252,252,250,1) 0%, rgba(243,225,224,1) 50%, rgba(255,237,219,1) 100%);
+    background: linear-gradient(225deg, rgba(255,237,219,1) 24%, rgba(243,225,224,1) 46%, rgba(252,252,250,1) 75%);
 
 }
 
@@ -24,18 +24,17 @@ nav a {
     padding: 12px;
 }
 
-a:hover{
+a:hover {
     background-color: white;
 }
 
 main {
-    background-color: #EDCDBB;
-    height: 70vh;
+    background: linear-gradient(#EDCDBB, #EEC373);
+    height: 74vh;
 }
 
 h2 {
     text-align: center;
-    /* background-color: black; */
     color: black;
     position: relative;
     bottom: 1vh;
@@ -43,12 +42,11 @@ h2 {
 }
 
 section {
-display:flex;
-width: 70%;
+    display: flex;
+    width: 70%;
 }
 
 footer {
     background-color: #BF9270;
     height: 5vh;
 }
-

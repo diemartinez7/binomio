@@ -48,5 +48,12 @@ section {
 
 footer {
     background-color: #BF9270;
-    height: 5vh;
+    height: 5.1vh;
+}
+
+footer .cr-con{
+    color: white;
+    padding-top: 0.7rem;
+    text-align: center;
+    font-weight: bolder;
 }
